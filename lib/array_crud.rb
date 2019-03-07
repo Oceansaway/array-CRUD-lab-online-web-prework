@@ -1,10 +1,9 @@
 def create_an_empty_array
   empty=[]
-
 end
 
 def create_an_array
-
+pups=["flippy", "velcro", "bella", "mia"]
 end
 
 def add_element_to_end_of_array(array, element)
